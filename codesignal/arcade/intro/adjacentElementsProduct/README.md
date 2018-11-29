@@ -21,4 +21,4 @@ Guaranteed constraints:
 `2 ≤ inputArray.length ≤ 10,`
 `-1000 ≤ inputArray[i] ≤ 1000.`
 
-* \[input\] integer
+* \[output\] integer
