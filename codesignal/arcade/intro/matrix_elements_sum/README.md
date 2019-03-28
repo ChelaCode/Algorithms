@@ -28,7 +28,7 @@ matrixElementsSum(matrix) = 9.
 
 Note that the free room in the final column makes the full column unsuitable for bots (not just the room directly beneath it). Thus, the answer is 1 + 1 + 1 + 5 + 1 = 9.
 
-###Input/Output
+### Input/Output
 
 [execution time limit] 4 seconds (js)
 
