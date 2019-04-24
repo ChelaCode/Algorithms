@@ -8,10 +8,10 @@ Given a valid email address, find its domain part.
 
 ### Example
 
-#For `address = "prettyandsimple@example.com"`, the output should be
+* For `address = "prettyandsimple@example.com"`, the output should be
 `findEmailDomain(address) = "example.com";`
 
-#For `address = "fully-qualified-domain@codesignal.com"`, the output should be
+* For `address = "fully-qualified-domain@codesignal.com"`, the output should be
 `findEmailDomain(address) = "codesignal.com".`
 
 ### Input/Output
